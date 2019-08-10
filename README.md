@@ -1,5 +1,3 @@
-# README
-
 Hi!
 
 As it was my first time with ruby, I used the application framework that looked the most popular on my web-search (Rails). I feel the framework looks quite large for the small application I've built :)
