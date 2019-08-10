@@ -7,7 +7,7 @@ I created two versions, a 'full' one that explicitly handles the type of convers
 Run the rails server in converter_web with 'bin/rails server'
 
 Supported measures are:
-*	length	- cm, m, inch, feet
+*	length	- cm, metres, inch, feet
 *	mass 	- kg, lb
 
 PS. In the converter_terminal folder I put the terminal-based solution I created first, but it's basically the same
