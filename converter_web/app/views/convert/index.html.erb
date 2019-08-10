@@ -1,0 +1,13 @@
+<h1>Convert</h1>
+<p>Use this application to convert two measurements. E.g. "2 kg to lb".</p>
+
+<%= form_for :convert do |f| %>
+  <p>
+    <%= f.label :query%><br>
+    <%= f.text_field :query %>
+  </p>
+ 
+  <p>
+    <%= f.submit "Convert"%>
+  </p>
+<% end %>
